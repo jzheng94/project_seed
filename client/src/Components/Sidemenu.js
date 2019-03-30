@@ -13,7 +13,7 @@ const Side= () => (
    <i className="users icon"></i> &nbsp;
     Featured Projects 
    </div></Link>
-   <Link to=""><div className="customItem">
+   <Link to="#"><div className="customItem">
    <i className="child icon"></i> &nbsp;
    Join A Team 
    </div></Link>
